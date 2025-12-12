@@ -1,2 +1,2 @@
 # practice-commits
-update 2
+update 1
